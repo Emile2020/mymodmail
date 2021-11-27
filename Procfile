@@ -1,1 +1,1 @@
-run = "node start"
+run = node .
