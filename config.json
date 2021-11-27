@@ -1,16 +1,10 @@
-# Required settings
-# -----------------
 token = OTE0MDczMjI5NzA5MTcyNzU2.YaHvCA.5j122QE6TvaWGuS3yrvSs0IWnPk
 mainServerId = 891328829849747526
 inboxServerId = 900384926006906941
 logChannelId = 891328829849747529
 
-# Common settings
-# ----------------------------------
 prefix = !
 inboxServerPermission = manageMessages
 status = Message me for help!
 responseMessage = Thank you for your message! Our mod team will reply to you here as soon as possible.
 
-# Add new options below this line:
-# ----------------------------------
